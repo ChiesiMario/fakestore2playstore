@@ -19,4 +19,10 @@
   - ⛔ 最嚴重的問題是安裝一些其他模塊後有衝突，MicroG 套件會變成非系統應用，導致無法使用。
  
 # ⭐️ 刷入 fakestore2playstore
-1. 在
+1. 使用 Root Explorer 確認 FakeStore 的安裝位置
+2. 在 [Releases](https://github.com/ChiesiMario/fakestore2playstore/releases) 下載模塊 
+  - FakeStore 安裝位置在 `/system/pirv-app` 則下載：`fakestore2playstore-xxxx.zip`
+  - FakeStore 安裝位置在 `/system/product/pirv-app` 則下載：`fakestore2playstore-product-xxxx.zip`
+3. ❗務必先確認好 FakeStore 的位置，否則可能不生效，不排除會有無法開機的情況，提前做好如果無法開機如何刪模塊的準備
+4. 使用 Magisk 或者 KernelSU 刷入
+5. Enjoy it.
