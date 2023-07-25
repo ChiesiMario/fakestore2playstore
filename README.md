@@ -1,7 +1,7 @@
 # 💡 說明
 安裝 MicroG 的方法有很多，但如果你並非使用 LineageOS for microG 的話，我不太推薦你使用該模塊，其他選擇：
 
-- 設備擁有第三方 Recovery 則推薦直接刷入 [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/)
+- 設備擁有第三方 Recovery 則推薦直接刷入：[microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/)
   - ✅ microG
   - ✅ 可選安裝 Play Store 或 FakeStore
   - ✅ 可還原 Play Store 內購
