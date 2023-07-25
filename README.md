@@ -31,3 +31,8 @@
 首次打開 Play Store 登錄之後，可能會提示「異常」，請在「microG」註冊設備 → 清除「Play Store」數據 → 再次開啓「Play Store」即可正常使用 → 此時「Play Store」會自動在後台更新版本
 
 還原內購是沒有問題的，但是消費的話暫時沒有測試過。
+
+# 🙏🏻 Credits
+- [fakestore2playstore]https://github.com/sn-00-x/fakestore2playstore
+- [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/)
+- [microG_GSync](https://github.com/ozingi/microG_GSync)
