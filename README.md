@@ -1,8 +1,8 @@
 # 💡 說明
-安裝 MicroG 的方法有很多，但如果你並非使用 LineageOS for MicroG 的話，我不太推薦你使用該模塊，其他選擇：
+安裝 MicroG 的方法有很多，但如果你並非使用 LineageOS for microG 的話，我不太推薦你使用該模塊，其他選擇：
 
 - 設備擁有第三方 Recovery 則推薦直接刷入 [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/)
-  - ✅ MicroG
+  - ✅ microG
   - ✅ 可選安裝 Play Store 或 FakeStore
   - ✅ 可還原 Play Store 內購
   
@@ -10,7 +10,7 @@
   - ⛔ OTA 之後 MicroG 丟失
   
 - 擁有 Magisk 或 KernelSU 推薦刷入模塊：[microG_GSync](https://github.com/ozingi/microG_GSync)
-  - ✅ MicroG
+  - ✅ microG
   - ✅ 包括 Play Store
   - ✅ 可還原 Play Store 內購
   
@@ -28,4 +28,4 @@
 5. Enjoy it.
 
 # 🙈 其他
-首次打開 Play Store 登錄之後，可能會提示「異常」，請在「MicroG」註冊設備 → 清除「Play Store」數據 → 再次開啓「Play Store」即可正常使用 → 此時「Play Store」會自動在後台更新版本
+首次打開 Play Store 登錄之後，可能會提示「異常」，請在「microG」註冊設備 → 清除「Play Store」數據 → 再次開啓「Play Store」即可正常使用 → 此時「Play Store」會自動在後台更新版本
