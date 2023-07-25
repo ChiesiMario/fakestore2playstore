@@ -15,7 +15,7 @@
   - ✅ 可還原 Play Store 內購
   
   一些我遇到的問題：
-  - ⛔ Play Store 無法使用，可嘗試下載 [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/) 提取替換裏面的 Play Store 。
+  - ⛔ Play Store 無法使用，可嘗試下載 [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/) 提取替換裏面的 `Phonesky.apk` 。
   - ⛔ 最嚴重的問題是安裝一些其他模塊後有衝突，MicroG 套件會變成非系統應用，導致無法使用。
  
 # ⭐️ 刷入 fakestore2playstore
@@ -26,3 +26,6 @@
 3. ❗務必先確認好 FakeStore 的位置，否則可能不生效，不排除會有無法開機的情況，提前做好如果無法開機如何刪模塊的準備
 4. 使用 Magisk 或者 KernelSU 刷入
 5. Enjoy it.
+
+# 🙈 其他
+首次打開 Play Store 登錄之後，可能會提示「異常」，請在「MicroG」註冊設備 → 清除「Play Store」數據 → 再次開啓「Play Store」即可正常使用 → 此時「Play Store」會自動在後台更新版本
