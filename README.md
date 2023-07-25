@@ -33,6 +33,6 @@
 還原內購是沒有問題的，但是消費的話暫時沒有測試過。
 
 # 🙏🏻 Credits
-- [fakestore2playstore]https://github.com/sn-00-x/fakestore2playstore
+- [fakestore2playstore](https://github.com/sn-00-x/fakestore2playstore)
 - [microG unofficial installer](https://forum.xda-developers.com/t/mod-flashable-microg-unofficial-installer.3432360/)
 - [microG_GSync](https://github.com/ozingi/microG_GSync)
