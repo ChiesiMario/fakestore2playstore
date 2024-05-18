@@ -23,9 +23,10 @@
 2. 在 [Releases](https://github.com/ChiesiMario/fakestore2playstore/releases) 下載模塊 
   - FakeStore 安裝位置在 `/system/pirv-app` 則下載：`fakestore2playstore-xxxx.zip`
   - FakeStore 安裝位置在 `/system/product/pirv-app` 則下載：`fakestore2playstore-product-xxxx.zip`
-3. ❗務必先確認好 FakeStore 的位置，否則可能不生效，不排除會有無法開機的情況，提前做好如果無法開機如何刪模塊的準備
+3. ❗ 務必先確認好 FakeStore 的位置，否則可能不生效，不排除會有無法開機的情況，提前做好如果無法開機如何刪模塊的準備
 4. 使用 Magisk 或者 KernelSU 刷入
-5. Enjoy it.
+5. 如刷入后的 Play Store 无法开启，请[下载新版 .apk](https://apkpure.com/google-play-store/com.android.vending/download) 更新。
+6. Enjoy it.
 
 # 🙈 其他
 首次打開 Play Store 登錄之後，可能會提示「異常」，請在「microG」註冊設備 → 清除「Play Store」數據 → 再次開啓「Play Store」即可正常使用 → 此時「Play Store」會自動在後台更新版本
